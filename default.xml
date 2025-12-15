@@ -8,7 +8,7 @@
 
     <project name="spi.git"
              path="spi"
-             revision="eed57b2"/>
+             revision="eed57b226bc14f48c84ba375b8008194a2942e69"/>
 
     <project name="uci.git"
              path="uci"/>
