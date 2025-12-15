@@ -7,7 +7,8 @@
              remote="origin"/>
 
     <project name="spi.git"
-             path="spi"/>
+             path="spi"
+             revision="eed57b2"/>
 
     <project name="uci.git"
              path="uci"/>
