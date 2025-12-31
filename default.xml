@@ -6,7 +6,7 @@
     <default revision="main"
              remote="origin"/>
 
-    <project name="manifest" path="." />
+    <project name="manifest" path="manifest" />
 
     <project name="spi.git"
              path="spi"
