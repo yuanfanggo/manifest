@@ -9,14 +9,14 @@
     <project name="manifest" path="manifest" />
 
     <project name="spi.git"
-             path="spi"
+             path="common/spi"
              revision="eed57b226bc14f48c84ba375b8008194a2942e69"/>
 
     <project name="uci.git"
-             path="uci"/>
+             path="common/uci"/>
 
     <project name="app.git"
-             path="app"
+             path="common/app"
              revision="9031587300bb740b6b36f30f33dc32558cb8de92"/>  
 </manifest>
 
