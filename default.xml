@@ -16,6 +16,7 @@
              path="uci"/>
 
     <project name="app.git"
-             path="app"/>
+             path="app"
+             revison="9031587300bb740b6b36f30f33dc32558cb8de92"/>  
 </manifest>
 
